@@ -147,5 +147,3 @@ function FormSplitBill() {
     </form>
   );
 }
-
-//This React application helps you divide meal expenses among friends, ensuring each person knows their share. It provides a seamless way to manage and track shared bills within your group.
